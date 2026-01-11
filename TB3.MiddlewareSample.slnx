@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EncDecSample/EncDecSample.csproj" />
+  <Project Path="TB3.MiddlewareSample/TB3.MiddlewareSample.csproj" />
+</Solution>
